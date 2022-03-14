@@ -4,7 +4,7 @@ import "./blogs.css";
 //components
 import Header from "../../Components/header/header";
 import Footer from "../../Components/footer/footer";
-import Blogss from "../../Components/blogsPage/blogs";
+import Blogss from "../../Components/allBlogs/allBlogs";
 import Other from "../../Components/otherBlogs/other";
 
 function Blogs() {
